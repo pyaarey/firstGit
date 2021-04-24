@@ -2,3 +2,4 @@ Created sample file for 2 users to make simultaneous updates from browser.
 
 New line added by user2 (pyaareyG) using Chrome browser to check on merging of changes done by user1 (admin). 
 Line four added by user1 (pyaareyH) using Edge.
+This line has been added by userPG using notepad++
